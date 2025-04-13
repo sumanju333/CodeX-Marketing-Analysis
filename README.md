@@ -4,7 +4,7 @@ This project is part of the **Codebasics Resume Project Challenge #6**, where I 
 
 📌 [Challenge Link](https://codebasics.io/challenge/codebasics-resume-project-challenge/6)  
 🔗 [LinkedIn Post]()  
-📄 [Download Final Presentation (PDF)](./Marketing_Analysis_Using_SQL.pdf)
+📄 [Download Final Presentation (PDF)](https://github.com/sumanju333/CodeX-Marketing-Analysis/blob/main/Codex_Marketing_Analysis_Presentation.pdf)
 
 ---
 
